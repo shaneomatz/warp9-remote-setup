@@ -1,0 +1,4 @@
+Step 1: Create Repo
+Step 2: Copy Remote HTTPS URL
+Step 3: git remote add origin https://repourl.git
+Step 4: git push origin main
